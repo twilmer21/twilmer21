@@ -1,4 +1,4 @@
-<h1 align="center">Hiya👋, I'm Trevin! : <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hiya👋, I'm Trevin! </h1>
 
 - 🔭 I'm an analyst from 🇮🇩 currently working in 🇨🇦 with a passion for data and technology 🚀
 
