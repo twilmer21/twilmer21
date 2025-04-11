@@ -1,6 +1,6 @@
 <h1 align="center">Hiya👋, I'm Trevin! </h1>
 
-- 🔭 I'm an analyst from 🇮🇩 currently working in 🇨🇦 with a passion for data and technology 🚀
+- 🔭 I'm a data analyst with a passion for data and technology 🚀
 
 - 🌱 Expanding my tech stack to learn more about data science and machine learning!
 
