@@ -7,7 +7,7 @@
 - 🎮 My hobbies are cooking, gaming, ice skating, and music 
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Let's Connect! ✈️</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trv21/)
